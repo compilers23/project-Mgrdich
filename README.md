@@ -30,7 +30,7 @@ Happy Forthing
 Take each line as a clean slate
 
 * Stack push Eg: `1 2 3` 
-* Stack print `1 2 3` -> `<3> 1 2 3 ok`
+* Stack print `1 2 3 .s` -> `<3> 1 2 3 ok`
 * Stack Pop and print `1 2 3 .` -> `3`
 * Arithmetic Operation Addition `1 2 + .` -> `3`
 * Arithmetic Operation Subtraction `1360 23 - .` -> `1337 ok`
